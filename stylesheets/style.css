@@ -1,0 +1,4 @@
+* { margin: 0; padding: 0; outline:  none; }
+body { background: #ddd; font: 14px/150% 'Helvetica', Arial, Verdana; color: #333; text-shadow: 0 1px 0 #fff; }
+h1 { text-align: center;  font-size: 20px; margin: 20px 0; font-weight: 200; }
+div#editor { width: 700px; height: 250px; border: solid 1px #ccc; margin: auto; background: #fff; }
